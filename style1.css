@@ -1,0 +1,29 @@
+.heading {
+    color: rgba(0, 0, 0, 0.705);
+    text-decoration: underline;
+    font-style: oblique;
+  }
+  .img {
+    width: 1000px;
+    height: 300px;
+  }
+  .imge {
+    width: 500px;
+    
+  }
+  .input1 {
+    margin-bottom: 10px;
+  }
+  
+  .input2 {
+    margin-bottom: 10px;
+  }
+  
+  .input3 {
+    margin-bottom: 10px;
+  }
+  
+  form {
+    margin-bottom: 90px;
+  }
+  
